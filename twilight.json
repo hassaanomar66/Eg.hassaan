@@ -806,6 +806,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "afbee4a3-9eed-446d-9506-ad21119a033c",
+            "title": "Lain",
+            "icon": "sicon-store",
+            "path": "Lin",
+            "fields": []
         }
     ],
     "support_url": "https://salla.com/",
